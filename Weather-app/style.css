@@ -1,4 +1,0 @@
-body{ background: linear-gradient(to right, #4facfe, #00f2fe); font-family: sans-serif; display:flex; justify-content:center; margin-top:100px; }
-.card{ background:white; padding:25px; border-radius:15px; width:300px; text-align:center; }
-input{ padding:8px; width:70%; }
-button{ padding:8px 12px; margin-top:10px; cursor:pointer; }
